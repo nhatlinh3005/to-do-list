@@ -20,7 +20,6 @@ export class Table extends Component {
                     <Item />
                     <Item />
                     <Item />
-                    <Item />
                 </tbody>
             </table>
         )
